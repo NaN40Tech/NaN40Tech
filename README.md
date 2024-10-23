@@ -9,6 +9,7 @@
 - 💬 Ask me about **Arduino, Machine Learning and Internet of Things**
 
 - 📫 How to reach me **nabila.salv@gmail.com**
+- ⚒️ My Portofolio: https://nan40tech.my.canva.site/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
